@@ -22,3 +22,5 @@
 
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,[VAI A GOOGLE](https://www.google.it/) quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore [Vai a sottosezione](#sono-un-titoletto) eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat <u>non</u> proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+ctrl+maiusc+V per aprire la preview

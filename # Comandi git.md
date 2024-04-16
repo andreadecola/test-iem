@@ -11,3 +11,8 @@
 **git brnach M -main** cambia il branch 
 
 **git push -u origin/main** Carica il file nella repository
+
+
+**git clone** Clona la repository 
+
+**git pull** Pullare una repository gia presente all' interno del pc
